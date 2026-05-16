@@ -1,12 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=sn0wkzy&color=006bed)
  
-Meu nome é Lucas, tenho 17 anos e sou fascinado por tecnologia desde os meus 6 anos.
+Meu nome é Lucas, tenho 18 anos e sou fascinado por tecnologia desde os meus 6 anos.
  
 ## Minhas Skills
  
 **Tecnologias e Linguagens**
- 
 
+[![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
+[![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
